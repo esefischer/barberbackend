@@ -1,0 +1,11 @@
+body{
+       background-color :Gainsboro
+    }
+    h1 {
+       color : IndianRed
+       }
+    h2 {
+       color : LightCoral;
+       text-decoration: green wavy underline;
+       letter-spacing: 10px;
+       }
